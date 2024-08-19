@@ -9,3 +9,13 @@ What I did was simply recalculate the cookies, instead of using a conditional, a
 To run this app, make sure to have [node installed](https://nodejs.org/en/download/package-manager)
 
 and enter `node script.js`
+
+## Additional Add-on
+
+I added a newly revised version of the original problem, making it where the user can choose the amount of cookies.
+
+Added a browser for the prompt feature.
+
+## How do I run the add-on?
+
+To run the add-on either use the live server extension on your vs-code, or right click and open in browser!
